@@ -1,4 +1,4 @@
-"""Beginner-friendly Hotel Revenue Analyzer (Python 3 + Pandas)."""
+"""Hotel Revenue Analyzer using Python 3, Pandas, and Matplotlib."""
 
 from pathlib import Path
 import math
