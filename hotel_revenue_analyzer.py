@@ -181,7 +181,7 @@ def show_charts(data):
     axes[1].set_ylabel("Revenue (Rs.)")
 
     figure.tight_layout()
-    plt.show()
+    figure.savefig("testcases/hotel_revenue_charts.png")
 
 
 def main():
